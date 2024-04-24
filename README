@@ -1,0 +1,23 @@
+## IMPORTS
+
+# pandas
+# beautifulsoup4
+# requests
+
+## USAGE
+
+# With this project I was building a web scraping bot that would go and take information from flight information that
+# could be used to get all results desired for the customer/user.
+#
+# The main project aim was to save the JSON information and later use it for the required information of the choice.
+
+## PROBLEMS
+
+# With this project I encountered the first main problem - for loop and how to reach the first flight information from
+# the JSON information and how to reach the key values and where they were stored.
+# Unfortunately, I was unable to finish all the steps as my trials were unsuccessful in regard to find the information
+# for flights that have one step. As well I did not successfuly managed to save information the way I wanted which led
+# into 2 lines for Outbound and Inbound flights.
+#
+# Tools: I decided to use the Pandas as they are much faster for larger datasets. Not sure if this amount of JSON
+# information is counted as big.
